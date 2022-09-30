@@ -39,8 +39,8 @@ public class baskara {
 				yv = -delta/(4*a);
 				System.out.println("Esse sera o par ordenado do vertice "+"("+(String.format("%.0f",xv))+","+(String.format("%.0f",yv))+")");
 				break;
-			case "exporial":
-			case "Exporial":
+			case "exponencial":
+			case "Exponencial":
 				System.out.println("Digite o valor de a");
 				a = in.nextDouble();
 				System.out.println("Digite o valor de x");
