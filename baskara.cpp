@@ -18,7 +18,7 @@ int main()
    double x2;
    double xv;
    double yv;
-   setlocale(LC_ALL,"Portuguese");
+   setlocale(LC_ALL, "Portuguese");
 
    cout << "Escolha a funcao matematica\n[1]Quadratica, [2]Exponencial" << endl;
    cin >> escolha;
