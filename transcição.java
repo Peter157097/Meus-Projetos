@@ -338,6 +338,9 @@ public class transcição {
 							break;
 							//aqui acaba os calculos de celsius
 					   }
+				default:
+					System.out.println("Palavra invalida");
+					break;
 		}
 		ler.close();
 
